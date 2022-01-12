@@ -11,7 +11,7 @@ Our aim is to summarize lecture videos to make it easy for the students to learn
 - Results
 
 
-### [Research Paper](./PW22UD03_ResearchPaper.pdf)
+### [Research Paper](./PW22UD03_Research_Paper.pdf)
 ### [Research Paper](./PW22UD03_LowLevelDesign.pdf)
 
 
